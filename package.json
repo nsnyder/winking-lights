@@ -1,0 +1,12 @@
+{
+  "name": "winking-lights",
+  "version": "0.0.1",
+  "description": "Makes my lights blink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Nathan Snyder <nathan@snydern.com>",
+  "license": "ISC"
+}
